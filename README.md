@@ -53,7 +53,7 @@ This notebook walks through a complete ML pipeline — from data loading and cle
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/iris-random-forest.git
+git clone https://github.com/khanzalan/iris-random-forest.git
 cd iris-random-forest
 pip install -r requirements.txt
 ```
